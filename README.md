@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/shouryagow83833" target="blank"><img src="https://img.shields.io/twitter/follow/shouryagow83833?logo=twitter&style=for-the-badge" alt="shouryagow83833" /></a> </p>
 
-- 🌱 I’m currently learning **Java Full-Stack Development**
+- 🌱 I’m completed my **Java Full-Stack Development** course
+- ✔  Now I'm ready to work
 
 - 📫 How to reach me **shouryagowda15@gmail.com**
 
