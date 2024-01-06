@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shourya G K</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<image align="right" alt="coding" width="400" src="![image](https://github.com/Shouryagk007/Shouryagk007/assets/152007985/86795565-9a6b-4f0a-8d71-ef37355d3d11)
-">
+<image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shouryagk007&label=Profile%20views&color=0e75b6&style=flat" alt="shouryagk007" /> </p>
 
